@@ -60,13 +60,24 @@ automatically deploy our services to Elastic Beanstalk when a new
 release is created.
 
 ## Repositories
-- [Web UI](https://github.com/samdzie/group-web-ui)
-- [Homepages](https://github.com/HichBen/homepage-app)
-- [Events](https://github.com/zenpadua/497S-events-microservice)
-- [Images](https://github.com/Angela-N/image-microservice)
+- [Web UI][2]
+- [Homepages][3]
+- [Events][4]
+- [Images][5]
+- [Voice Assistant][6]
 
 ## Demo Videos
-*Links will be added once videos have been recorded.*
+- Web UI
+- Homepages
+- Events
+- Images
+- Voice Assistant
+- Entire System
 
 
 [1]: https://sites.google.com/cs.umass.edu/compsci-497s-f20-submissions
+[2]: https://github.com/samdzie/group-web-ui
+[3]: https://github.com/HichBen/homepage-app
+[4]: https://github.com/zenpadua/497S-events-microservice
+[5]: https://github.com/Angela-N/image-microservice
+[6]: https://github.com/achintyaakumar/voice-microservice
