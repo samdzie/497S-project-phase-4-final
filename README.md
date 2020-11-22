@@ -69,7 +69,7 @@ release is created.
 ## Demo Videos
 - Web UI
 - Homepages
-- Events
+- [Events][9]
 - Images
 - Voice Assistant
 - Entire System
@@ -81,3 +81,4 @@ release is created.
 [4]: https://github.com/zenpadua/497S-events-microservice
 [5]: https://github.com/Angela-N/image-microservice
 [6]: https://github.com/achintyaakumar/voice-microservice
+[9]: https://youtu.be/C6oZpZvJpX8
