@@ -67,12 +67,12 @@ release is created.
 - [Voice Assistant][6]
 
 ## Demo Videos
-- Web UI
+- [Web UI][7]
 - Homepages
 - [Events][9]
 - Images
 - Voice Assistant
-- Entire System
+- [Entire System][12]
 
 
 [1]: https://sites.google.com/cs.umass.edu/compsci-497s-f20-submissions
@@ -81,4 +81,6 @@ release is created.
 [4]: https://github.com/zenpadua/497S-events-microservice
 [5]: https://github.com/Angela-N/image-microservice
 [6]: https://github.com/achintyaakumar/voice-microservice
+[7]: https://drive.google.com/file/d/1qJmepyffvhzRWf9bMHHmnitldsalic8K/view?usp=sharing
 [9]: https://youtu.be/C6oZpZvJpX8
+[12]: https://drive.google.com/file/d/1an-htDYUW2FA3vjRsSfjDg_91GYqBUMr/view?usp=sharing
