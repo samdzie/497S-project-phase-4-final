@@ -68,11 +68,15 @@ release is created.
 
 ## Demo Videos
 - [Web UI][7]
-- Homepages
+- [Homepages][8]
 - [Events][9]
 - [Images][10]
 - Voice Assistant
 - [Entire System][12]
+
+
+## Monitoring
+A system monitoring service can be accessed [here][13].
 
 
 [1]: https://sites.google.com/cs.umass.edu/compsci-497s-f20-submissions
@@ -82,6 +86,8 @@ release is created.
 [5]: https://github.com/Angela-N/image-microservice
 [6]: https://github.com/achintyaakumar/voice-microservice
 [7]: https://drive.google.com/file/d/1qJmepyffvhzRWf9bMHHmnitldsalic8K/view?usp=sharing
+[8]: https://drive.google.com/file/d/1Ntafsf8ymVd-oriI-VU7eBAvCS_tJiJQ/view?usp=sharing
 [9]: https://youtu.be/C6oZpZvJpX8
 [10]: https://youtu.be/-bnOh5AomNs
 [12]: https://drive.google.com/file/d/1an-htDYUW2FA3vjRsSfjDg_91GYqBUMr/view?usp=sharing
+[13]: http://ec2-18-218-189-122.us-east-2.compute.amazonaws.com:3000/login
