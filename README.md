@@ -70,7 +70,7 @@ release is created.
 - [Web UI][7]
 - Homepages
 - [Events][9]
-- Images
+- [Images][10]
 - Voice Assistant
 - [Entire System][12]
 
@@ -83,4 +83,5 @@ release is created.
 [6]: https://github.com/achintyaakumar/voice-microservice
 [7]: https://drive.google.com/file/d/1qJmepyffvhzRWf9bMHHmnitldsalic8K/view?usp=sharing
 [9]: https://youtu.be/C6oZpZvJpX8
+[10]: https://youtu.be/-bnOh5AomNs
 [12]: https://drive.google.com/file/d/1an-htDYUW2FA3vjRsSfjDg_91GYqBUMr/view?usp=sharing
