@@ -60,11 +60,11 @@ automatically deploy our services to Elastic Beanstalk when a new
 release is created.
 
 ## Repositories
-- [Web UI][2]
-- [Homepages][3]
-- [Events][4]
-- [Images][5]
-- [Voice Assistant][6]
+- [Web UI][2] (Sam Dziewietin)
+- [Homepages][3] (Hichem Bennia)
+- [Events][4] (Zenry Padua)
+- [Images][5] (Angela Nayiga)
+- [Voice Assistant][6] (Achintya Kumar)
 
 ## Demo Videos
 - [Web UI][7]
